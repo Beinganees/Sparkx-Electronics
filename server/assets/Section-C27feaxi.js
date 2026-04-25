@@ -1,5 +1,5 @@
-import { T as jsxRuntimeExports } from "./worker-entry-BeJCrU6L.js";
-import { m as motion } from "./router-B8cbCND_.js";
+import { T as jsxRuntimeExports } from "./worker-entry-BX9aAf9D.js";
+import { m as motion } from "./router-Cl7ewKuU.js";
 function Section({
   id,
   title,

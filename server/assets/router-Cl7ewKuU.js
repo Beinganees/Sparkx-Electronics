@@ -1,4 +1,4 @@
-import { r as reactExports, f as functionalUpdate, a as arraysEqual, c as createLRUCache, i as isPromise, b as isRedirect, d as isNotFound, e as invariant$1, g as createControlledPromise, h as rootRouteId, j as isServer, k as compileDecodeCharMap, t as trimPath, l as rewriteBasepath, m as composeRewrites, p as processRouteTree, n as processRouteMasks, o as resolvePath, q as cleanPath, s as trimPathRight, u as parseHref, v as executeRewriteInput, w as isDangerousProtocol, x as redirect, y as findSingleMatch, z as deepEqual, D as DEFAULT_PROTOCOL_ALLOWLIST, A as interpolatePath, B as nullReplaceEqualDeep, C as replaceEqualDeep, E as last, F as decodePath, G as findFlatMatch, H as findRouteMatch, I as executeRewriteOutput, J as encodePathLikeUrl, K as trimPathLeft, L as joinPaths, M as useRouter, N as dummyMatchContext, O as matchContext, P as requireReactDom, Q as exactPathTest, R as removeTrailingSlash, S as React, T as jsxRuntimeExports, U as isModuleNotFoundError, V as useHydrated, W as escapeHtml, X as getAssetCrossOrigin, Y as resolveManifestAssetLink, Z as Outlet } from "./worker-entry-BeJCrU6L.js";
+import { r as reactExports, f as functionalUpdate, a as arraysEqual, c as createLRUCache, i as isPromise, b as isRedirect, d as isNotFound, e as invariant$1, g as createControlledPromise, h as rootRouteId, j as isServer, k as compileDecodeCharMap, t as trimPath, l as rewriteBasepath, m as composeRewrites, p as processRouteTree, n as processRouteMasks, o as resolvePath, q as cleanPath, s as trimPathRight, u as parseHref, v as executeRewriteInput, w as isDangerousProtocol, x as redirect, y as findSingleMatch, z as deepEqual, D as DEFAULT_PROTOCOL_ALLOWLIST, A as interpolatePath, B as nullReplaceEqualDeep, C as replaceEqualDeep, E as last, F as decodePath, G as findFlatMatch, H as findRouteMatch, I as executeRewriteOutput, J as encodePathLikeUrl, K as trimPathLeft, L as joinPaths, M as useRouter, N as dummyMatchContext, O as matchContext, P as requireReactDom, Q as exactPathTest, R as removeTrailingSlash, S as React, T as jsxRuntimeExports, U as isModuleNotFoundError, V as useHydrated, W as escapeHtml, X as getAssetCrossOrigin, Y as resolveManifestAssetLink, Z as Outlet } from "./worker-entry-BX9aAf9D.js";
 var reactUse = reactExports.use;
 function useForwardedRef(ref) {
   const innerRef = reactExports.useRef(null);
@@ -2666,7 +2666,7 @@ function renderScripts(router2, scripts, assetScripts) {
     key: `tsr-scripts-${asset.tag}-${i}`
   })) });
 }
-const appCss = "/sparkx-electronics/assets/styles-DKhkMOJV.css";
+const appCss = "/Sparkx-Electronics/assets/styles-DKhkMOJV.css";
 const mergeClasses = (...classes) => classes.filter((className, index, array) => {
   return Boolean(className) && className.trim() !== "" && array.indexOf(className) === index;
 }).join(" ").trim();
@@ -11032,7 +11032,7 @@ function RootComponent() {
     /* @__PURE__ */ jsxRuntimeExports.jsx(WhatsAppFloat, {})
   ] });
 }
-const $$splitComponentImporter$5 = () => import("./services-2AvCALtT.js");
+const $$splitComponentImporter$5 = () => import("./services-DGO9PU5B.js");
 const Route$5 = createFileRoute("/services")({
   head: () => ({
     meta: [{
@@ -11050,7 +11050,7 @@ const Route$5 = createFileRoute("/services")({
   }),
   component: lazyRouteComponent($$splitComponentImporter$5, "component")
 });
-const $$splitComponentImporter$4 = () => import("./products-DNdAg3zK.js");
+const $$splitComponentImporter$4 = () => import("./products-CG2SgGoP.js");
 const Route$4 = createFileRoute("/products")({
   head: () => ({
     meta: [{
@@ -11068,11 +11068,11 @@ const Route$4 = createFileRoute("/products")({
   }),
   component: lazyRouteComponent($$splitComponentImporter$4, "component")
 });
-const $$splitComponentImporter$3 = () => import("./contact-B40aTq-F.js");
+const $$splitComponentImporter$3 = () => import("./contact-BhFLq4DG.js");
 const Route$3 = createFileRoute("/contact")({
   component: lazyRouteComponent($$splitComponentImporter$3, "component")
 });
-const $$splitComponentImporter$2 = () => import("./catalog-Da68Yshk.js");
+const $$splitComponentImporter$2 = () => import("./catalog-Fx_MZzo6.js");
 const Route$2 = createFileRoute("/catalog")({
   head: () => ({
     meta: [{
@@ -11090,7 +11090,7 @@ const Route$2 = createFileRoute("/catalog")({
   }),
   component: lazyRouteComponent($$splitComponentImporter$2, "component")
 });
-const $$splitComponentImporter$1 = () => import("./about-BiqC2Fpr.js");
+const $$splitComponentImporter$1 = () => import("./about-CgyPE3Nr.js");
 const Route$1 = createFileRoute("/about")({
   head: () => ({
     meta: [{
@@ -11108,7 +11108,7 @@ const Route$1 = createFileRoute("/about")({
   }),
   component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
-const $$splitComponentImporter = () => import("./index-DAomWtMy.js");
+const $$splitComponentImporter = () => import("./index-3iS0S5GI.js");
 const Route2 = createFileRoute("/")({
   head: () => ({
     meta: [{
